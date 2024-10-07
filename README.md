@@ -16,6 +16,8 @@ This repository contains the program files used for the work "Toward Collaborati
 }
 ```
 
+【[AIS-2024] Collaborative Multitarget Search and Navigation with POMA】 https://www.bilibili.com/video/BV1wH4y1P7Vy/?share_source=copy_web&vd_source=a20ab53e485dd536eabe4e19b154659f
+
 ## 2. Organization
 The repository contains the following files:
 1. `README.md`
