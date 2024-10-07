@@ -22,7 +22,11 @@ This repository contains the program files used for the work "Toward Collaborati
       </a>
 </div>
 
-## 2. Organization
+## 2. Pipeline
+The architecture of the POMA
+![Framework](https://github.com/user-attachments/assets/894daa28-f23e-448f-9ec1-e86453e642f4)
+
+
 The repository contains the following files:
 1. `README.md`
 2. asserts/
