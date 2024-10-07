@@ -1,7 +1,8 @@
 # Toward Collaborative Multi-Target Search and Navigation with Attention Enhanced Local Observation
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 ## 1. Introduction
-This repository contains the program files used for the work "Toward Collaborative Multitarget Search and Navigation with Attention Enhanced Local Observation" in Adanced Intelligent Systems. If you are interested, it would be grateful to cite our work and give us a star.
+This repository contains the program files used for the work "Toward Collaborative Multitarget Search and Navigation with Attention Enhanced Local Observation" in Adanced Intelligent Systems. If you are interested, it would be grateful to cite our work and give us a star 🌟.
 
 *Abstract: Collaborative multitarget search and navigation (CMTSN) is highly demanded in complex missions such as rescue and warehouse management. Traditional centralized and decentralized approaches fall short in terms of scalability and adaptability to real-world complexities such as unknown targets and large-scale missions. This article addresses this challenging CMTSN problem in three-dimensional spaces, specifically for agents with local visual observation operating in obstacle-rich environments. To overcome these challenges, this work presents the POsthumous Mix-credit assignment with Attention (POMA) framework. POMA integrates adaptive curriculum learning and mixed individual-group credit assignments to efficiently balance individual and group contributions in a sparse reward environment. It also leverages an attention mechanism to manage variable local observations, enhancing the framework's scalability. Extensive simulations demonstrate that POMA outperforms a variety of baseline methods. Furthermore, the trained model is deployed over a physical visual drone swarm, demonstrating the effectiveness and generalization of our approach in real-world autonomous flight.*
 
@@ -15,8 +16,11 @@ This repository contains the program files used for the work "Toward Collaborati
   publisher={Wiley Online Library}
 }
 ```
-
-【[AIS-2024] Collaborative Multitarget Search and Navigation with POMA】 https://www.bilibili.com/video/BV1wH4y1P7Vy/?share_source=copy_web&vd_source=a20ab53e485dd536eabe4e19b154659f
+<div align="left">
+      <a href="https://www.bilibili.com/video/BV1wS421K7uv/">
+         <img src="![image](https://github.com/user-attachments/assets/a887e678-4690-489f-b65e-c2903e40b52a)" width="700">
+      </a>
+</div>
 
 ## 2. Organization
 The repository contains the following files:
