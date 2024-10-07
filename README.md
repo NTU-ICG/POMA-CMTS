@@ -16,7 +16,7 @@ This repository contains the program files used for the work "Toward Collaborati
   publisher={Wiley Online Library}
 }
 ```
-<div align="left">
+<div align="center">
       <a href="https://www.bilibili.com/video/BV1wS421K7uv/">
          <img src="https://github.com/NTU-ICG/POMA-CMTS/blob/main/assets/cover.jpg" width="700">
       </a>
