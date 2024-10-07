@@ -18,7 +18,7 @@ This repository contains the program files used for the work "Toward Collaborati
 ```
 <div align="left">
       <a href="https://www.bilibili.com/video/BV1wS421K7uv/">
-         <img src="https://github.com/NTU-ICG/POMA-CMTS/blob/main/assets/cover.tif" width="700">
+         <img src="https://github.com/NTU-ICG/POMA-CMTS/blob/main/assets/cover.jpg" width="700">
       </a>
 </div>
 
